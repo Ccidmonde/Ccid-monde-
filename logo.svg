@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 110">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0b4f9c"/><stop offset="1" stop-color="#0b7bdc"/></linearGradient></defs>
+<rect width="420" height="110" rx="18" fill="white"/>
+<circle cx="53" cy="53" r="36" fill="url(#g)"/>
+<path d="M32 63c9-15 21-22 36-27-3 13-8 24-20 34" fill="none" stroke="white" stroke-width="5" stroke-linecap="round"/>
+<path d="M25 72c12 7 28 9 43 4" fill="none" stroke="white" stroke-width="5" stroke-linecap="round"/>
+<path d="M54 18c-5 13-4 27 4 39" fill="none" stroke="white" stroke-width="4" stroke-linecap="round"/>
+<text x="105" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#103d70">CCID MONDE 🌍</text>
+<text x="105" y="72" font-family="Arial, sans-serif" font-size="16" fill="#31577e">Corps Commun d'Inspection</text>
+<text x="105" y="93" font-family="Arial, sans-serif" font-size="16" fill="#31577e">pour le Développement</text>
+</svg>
